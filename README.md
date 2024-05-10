@@ -115,12 +115,12 @@ Dentro de RDS, crear una base de datos con el método "Standard create" y las si
 - Engine options: MySQL
 - Engine Version: MySQL 8.0.35
 - Templates: Free tier
-- DB instance identifier: [database-eks]
+- DB instance identifier: [db-reto4]
 - Credentials Settings:
   - Master username: admin
   - Credentials management: Self managed
-  - Master password: [123412341]
-  - Confirm master password: [123412341]
+  - Master password: [12341234]
+  - Confirm master password: [12341234]
 - DB instance class: db.t3.micro
 - Storage:
   - Storage type: gp2
